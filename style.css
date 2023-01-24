@@ -1,0 +1,38 @@
+.nav-item a{
+    color: #707070;
+}
+.button{
+    background-color: #B68C5A;
+    padding: 10px;
+    color: white;
+    border-radius: 7px;
+    border: none;
+}
+.text-area{
+    width: 750px;
+}
+.banner-section{
+    background-image: url("images/banner.png");
+    background-repeat: no-repeat;
+    height: 600px;
+    background-size: cover;
+}
+.prectise{
+    width: 100%;
+}
+.card-area{
+    width: 1050px;
+}
+.brand{
+    width: 100%;
+}
+.carousel-caption{
+    position: absolute;
+    top: 290px;
+}
+.carousel-caption>img{
+    height: 90px;
+    width: 90px;
+    border-radius: 45px;
+    border: 3px solid skyblue;
+}
